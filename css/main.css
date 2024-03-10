@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: red;
+    background-color: rgb(5, 5, 5);
     padding: 10px 0;
 
 }
@@ -27,8 +27,8 @@ header {
 }
 
 #character_nav {
-    background-color: #675050;
-    background-image: url(../images//characters_art_mas_mob_01.jpeg);
+    background-color: black;
+
     background-size: cover;
     background-blend-mode: overlay;
 }
@@ -72,27 +72,27 @@ header {
     background-image: url(../images/marvelSprites.jpg);
 }
 
-#carol {
+#bhadur {
     background-position: -150px 0;
 }
 
-#clint {
+#saheed {
     background-position: -300px 0;
 }
 
-#hulk {
+#king {
     background-position: -450px 0;
 }
 
-#thor {
+#sant {
     background-position: -600px 0;
 }
 
-#widow {
+#sardar {
     background-position: -750px 0;
 }
 
-#cap:hover, #carol:hover, #clint:hover, #hulk:hover, #thor:hover, #widow:hover {
+#Baba:hover, #Bhadur:hover, #saheed:hover, #king:hover, #sant:hover, #sardar:hover {
     background-position-y: 150px;
 }
 
@@ -109,10 +109,9 @@ footer {
     position: sticky;
     top: 100%;
     height: 80px;
-    background-color: rgb(40, 37, 37);
+    background-color: black;
 }
 
-/* Lightbox rules */
 
 .lightbox {
     width: 100vw;
@@ -122,7 +121,7 @@ footer {
     left: 0;
     z-index: 100;
     background-color: rgba(0,0,0,0.85);
-    background-image: url(../images/Cap_LB_Bg.png);
+    background-image: url(../images/OIP.jpeg);
     background-repeat: no-repeat;
     background-size: 55vh;
     background-position: 40px bottom;
@@ -162,6 +161,7 @@ footer {
     display: block;
 }
 
+
 #lightbox2 {
-    background-image: url(../images/Thor_LB_Bg.png);
+    background-image: url(../images/e43b1df1e095efae9b0a9b82a2e99698.jpg);
 }
