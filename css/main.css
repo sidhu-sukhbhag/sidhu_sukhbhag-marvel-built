@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: rgb(5, 5, 5);
+    background-color: rgb(72, 61, 61);
     padding: 10px 0;
 
 }
@@ -27,8 +27,8 @@ header {
 }
 
 #character_nav {
-    background-color: black;
-
+    background-color: rgb(202, 164, 164);
+    background-image: url(../images/gggg.jpeg);
     background-size: cover;
     background-blend-mode: overlay;
 }
@@ -46,6 +46,9 @@ header {
 .characters li {
     height: 220px;
     background-color: black;
+    background-image: url(../images/WhatsApp\ Image\ 2024-03-10\ at\ 13.23.07_16832d38.jpg);
+    background-size: cover;
+    background-blend-mode: overlay;
     margin: 10px 8px;
     text-align: center;
     cursor: pointer;
@@ -69,7 +72,7 @@ header {
 .sprite {
     width: 150px;
     height: 150px;
-    background-image: url(../images/marvelSprites.jpg);
+    background-image: url();
 }
 
 #bhadur {
