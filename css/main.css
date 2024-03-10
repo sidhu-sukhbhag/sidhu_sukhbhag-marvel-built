@@ -14,7 +14,7 @@ body {
 }
 
 header {
-    background-color: rgb(72, 61, 61);
+    background-color: rgb(0, 0, 0);
     padding: 10px 0;
 
 }
@@ -46,9 +46,6 @@ header {
 .characters li {
     height: 220px;
     background-color: black;
-    background-image: url(../images/WhatsApp\ Image\ 2024-03-10\ at\ 13.23.07_16832d38.jpg);
-    background-size: cover;
-    background-blend-mode: overlay;
     margin: 10px 8px;
     text-align: center;
     cursor: pointer;
@@ -72,7 +69,7 @@ header {
 .sprite {
     width: 150px;
     height: 150px;
-    background-image: url();
+    background-image: url(../images/sprites\ 1.jpeg)
 }
 
 #bhadur {
